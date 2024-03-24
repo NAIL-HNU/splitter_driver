@@ -114,3 +114,6 @@ rosbag record /capture_node/events /image_raw /visualization_node/image /groundt
 ```
 rosbag record /capture_node/events /image_raw /visualization_node/image /single_laser --tcpnodelay
 ```
+
+degbug
+
